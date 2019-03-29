@@ -1,5 +1,6 @@
 This script fixes some of the issues with Arktwend in TES3MP. Only lightly untested.
-Artkwend download links: https://sureai.net/games/arktwend/
+
+Artkwend download link: https://sureai.net/games/arktwend/.
 
 Read [this page](https://github.com/tes3mp-scripts/Tutorials/blob/master/ServerSetup.md) on how to set up your server.
 
